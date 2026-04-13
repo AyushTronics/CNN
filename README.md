@@ -82,7 +82,7 @@ It includes dataset exploration, visualization, CNN model building, training, ev
 
 ---
 
-# 🔥 Task 5: Grad-CAM Visualization
+# Task 5: Grad-CAM Visualization
 
 ### ✔️ Objectives
 - Understand model decisions
